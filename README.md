@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Antonio 👋 
+
+# 🧠 About Me
+I am a graduate student studying applied statistics. I am currently learning how to understand better the data and deliver my insights on data. 
 
 <!--
 **coronasanchez/coronasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
