@@ -4,7 +4,7 @@
 I am a graduate student studying applied statistics. I am currently learning how to understand better the data and deliver my insights on data. 
 
 - 🔭 I’m currently working on applying topics based on my Regression Analysis utilizling linear regression and much more. 
-- 🌱 I’m currently learning statistical inference and the basics in bioinformatics.
+- 🌱 I’m currently learning statistical inference, linear regression and the basics in bioinformatics.
 -⚡ Fun fact: I run marathons. 
 <!--
 **coronasanchez/coronasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
